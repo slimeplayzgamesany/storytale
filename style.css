@@ -1,0 +1,78 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/3a/0b/40/3a0b40d96c53860572a1c29970ce14a8.gif");
+    background-repeat: no repeat;
+    
+}
+.head1 {
+    color:white;
+    font-family: 'Fasthand', cursive;
+    font-weight: 800;
+    font-size: 64px;
+    text-decoration: underline;
+}
+
+.firstcontainer {
+    margin-top: 100px;}
+.firstcol {
+    display:flex;
+    justify-content: center;
+
+    
+}
+
+.text {
+    color: white;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 50px;
+    margin-top: 100px;
+    
+}
+img {
+    width: 100%;
+    border-radius: 50px 10px 10px 50px;
+    animation-name: img;
+    animation-duration: 9s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    
+}
+@keyframes img {
+    0% {
+        width: 100%;
+        border-radius: 50px 10px 10px 50px;
+
+    }
+    50% {
+        scale: 1.05;
+    }
+    
+}
+
+.cola {
+    background-color: rgb(37,150,190,0.5);
+    border-radius: 10px 50px 50px 10px;
+    
+} 
+
+.colq {
+    background-color: rgb(37,150,190,0.5);
+    border-radius: 50px 10px 10px 50px;
+} 
+
+.rowtwo {
+    margin-top: 10px;
+}
+
+.text1 {
+    color: white;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 50px;
+    margin-top: 100px;
+    
+}
+
+.bg1 {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/442/37/desktop-wallpaper-dark-sky-backgrounds-background-of-darck-sky.jpg")
+}
